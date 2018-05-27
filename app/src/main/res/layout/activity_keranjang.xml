@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    tools:context="com.kelompok3.rplinformatika.svhomeuser.Keranjang.KeranjangActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cek Pemesanan"
+        android:gravity="center"
+        android:textSize="18dp"/>
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/formCekKTP"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp">
+
+        <EditText
+            android:id="@+id/cekKTP"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Input No KTP"/>
+
+    </android.support.design.widget.TextInputLayout>
+
+    <Button
+        android:id="@+id/btnCek"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cek Pesanan"
+        android:textColor="#fff"
+        android:background="@color/colorAccent"/>
+
+</LinearLayout>

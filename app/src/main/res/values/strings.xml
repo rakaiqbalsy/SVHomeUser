@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">SVHomeUser</string>
+
+    <string name="pemberitahuan">
+        Terima Kasih Atas Pesanan Anda.
+    </string>
+
+    <string name="syarat">
+        Persyaratan yang dibawa
+    </string>
+
+    <string name="KTP">
+        - KTP
+    </string>
+
+    <string name="KK">
+        - Kartu Keluarga
+    </string>
+
+    <string name="BuktiGaji">
+        - Slip Gaji
+    </string>
+
+    <string name="no1">
+        -   Klik Cari Rumah
+    </string>
+
+    <string name="no2">
+        -   Pilih Rumah Impianmu
+    </string>
+
+    <string name="no3">
+        -   Klik Pesan
+    </string>
+
+    <string name="no4">
+        -   Isi  Seluruh Field Form
+    </string>
+
+    <string name="no5">
+        -   Pemesanan Selesai.
+    </string>
+
+    <string name="no1p">
+        -  Klik Cek Pesanan
+    </string>
+
+    <string name="no2p">
+        -  Input No KTP yang sesuai dengan Data Pesanan
+    </string>
+
+    <string name="no3p">
+        -  Catat Persyaratan yang haru dibawa
+    </string>
+
+    <string name="no4p">
+        -  Bawa Persyaratan Ke Kantor / Alamat Kantor Rumah Yang Anda Pesan
+    </string>
+
+    <string name="Rules">
+        Data Anda Telah Tersimpan.
+        Harap Datang Ke Kantor Rumah Yang Anda Pesan
+        Selambat-lambatnya Satu Minggu Setelah Pemesanan
+        Apabila Satu Minggu Pemesan Tidak Mengkonfrimasi Datang Maka Pemesanan Dianggap Membatalkan Pemesanan
+    </string>
+
+
+</resources>
